@@ -4,8 +4,8 @@
   "description": "mern api para mern task",
   "main": "index.js",
   "scripts": {
-    "start": "node ",
-    "dev": "nodemon "
+    "start": "nodemon "
+    /* "dev": "nodemon " */
   },
   "author": "daniel santiago giraldo",
   "license": "ISC",
